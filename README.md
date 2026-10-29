@@ -5,7 +5,8 @@ Enter a possible percentage price rise or fall to see how much your crypto holdi
 **Live demo:** [https://your-project.vercel.app](https://price-change-impact-calculator.vercel.app/)  <!-- replace with your Vercel link -->
 **GitHub:** [https://github.com/your-username/price-change-impact-calculator](https://github.com/TirthDoshi2184/Price_Change_Impact_Calculator)  <!-- replace -->
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3abe724f-756f-4827-95c2-21c4a2747a20" />
+<img width="958" height="473" alt="image" src="https://github.com/user-attachments/assets/fdf0a03f-87f8-4ad5-a64f-9cfa7ed6532b" />
+
 <!-- Take a screenshot of the deployed app, save it as docs/screenshot.png -->
 
 Built with React + Vite. Everything runs in the browser. There is no backend and no API, and the coin price is typed in by the user so the app never depends on live data.
