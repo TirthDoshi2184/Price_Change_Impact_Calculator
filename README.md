@@ -3,7 +3,7 @@
 Enter a possible percentage price rise or fall to see how much your crypto holding would gain or lose in local money.
 
 **Live demo:** https://your-project.vercel.app  <!-- replace with your Vercel link -->
-**GitHub:** https://github.com/your-username/price-change-impact-calculator  <!-- replace -->
+**GitHub:** [https://github.com/your-username/price-change-impact-calculator](https://github.com/TirthDoshi2184/Price_Change_Impact_Calculator)  <!-- replace -->
 
 ![Screenshot of the Price Change Impact Calculator](docs/screenshot.png)
 <!-- Take a screenshot of the deployed app, save it as docs/screenshot.png -->
